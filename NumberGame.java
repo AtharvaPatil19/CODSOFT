@@ -1,5 +1,5 @@
-//SAVE THIS FILE AS NumnerGame.java
-//INSTALL JDK AND RUN command javac NumberGame.java THEN JAVA NumberGAme
+//SAVE THIS FILE AS NumberGame.java
+//INSTALL JDK AND RUN COMMAND javac NumberGame.java THEN java NumberGame
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.awt.event.*;
